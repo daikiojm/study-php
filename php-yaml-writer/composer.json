@@ -1,0 +1,12 @@
+{
+    "name": "d_ojima/php-yaml-writer",
+    "authors": [
+        {
+            "name": "daikiojm",
+            "email": "daiking.ca2@gmail.com"
+        }
+    ],
+    "require": {
+      "symfony/yaml": "^3.2"
+    }
+}

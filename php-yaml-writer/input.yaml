@@ -1,0 +1,9 @@
+## use for test
+
+TEST1:
+  hoge: test_str
+  moge: test_str2
+
+TEST2:
+  log: php.log
+  dir: root/hoge
