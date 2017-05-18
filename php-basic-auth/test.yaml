@@ -1,0 +1,19 @@
+# A list of tasty fruits
+AAAAAAAABBBBBBBB:
+  - root
+  - pass
+CCCCCCCCCYYYYYCY:
+  - user01
+  - passwd
+CCCCCCCCCYYYYYCY:
+  - hoge
+  - huge
+test-user-01:
+  - user_001
+  - password77
+amazon-test-user:
+  - root
+  - pass
+wave-sock:
+  - abcdefb
+  - rootpass

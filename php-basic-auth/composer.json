@@ -1,0 +1,13 @@
+{
+    "name": "d_ojima/php-basic-auth",
+    "authors": [
+        {
+            "name": "daikiojm",
+            "email": "daiking.ca2@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.22",
+        "symfony/yaml": "^3.2"
+    }
+}
