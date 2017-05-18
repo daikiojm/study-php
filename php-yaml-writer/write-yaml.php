@@ -13,4 +13,5 @@ $array = array(
 
 $yaml = Yaml::dump($array);
 
-file_put_contents('output.yaml', $yaml);
+// file_put_contents('output.yaml', $yaml);
+file_put_contents('output.yaml', $yaml, FILE_APPEND);
