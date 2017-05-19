@@ -1,24 +1,25 @@
-foo: bar
-bar:
-    foo: bar
-    bar: hooo
-foo: bar
-bar:
-    foo: bar
-    bar: hooo
-foo: bar
-bar:
-    foo: bar
-    bar: hooo
-foo: bar
-bar:
-    foo: bar
-    bar: hooo
-foo: bar
-bar:
-    foo: bar
-    bar: hooo
-foo: bar
-bar:
-    foo: bar
-    bar: hooo
+d_ojima:
+    Name: '尾島 太基'
+    Basic:
+        user: root
+        pass: pass
+d_ojima:
+    Name: '尾島 太基'
+    Basic:
+        user: root
+        pass: pass
+d_ojima:
+    Name: '尾島 太基'
+    Basic:
+        user: root
+        pass: pass
+y_senaga:
+    Name: '尾島 太基'
+    Basic:
+        user: root
+        pass: pass
+y_kobayashi:
+    Name: '尾島 太基'
+    Basic:
+        user: root
+        pass: pass
